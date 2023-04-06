@@ -2,7 +2,7 @@
 
 # About US
 
-なまえ：NchLab.net
+なまえ：NchLab.net  
 よみ：エヌチャンラボネット
 
 現在準備中
