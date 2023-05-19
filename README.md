@@ -11,7 +11,8 @@
 
 <div align="center">
   <img src="./img/IMG_20230516_105641531.jpg" width="50%">
-
+</div>
+<div align="center">
   缶サットのイメージ図
 </div>
 
@@ -33,7 +34,7 @@
   <img src="./img/IMG_20230516_105426225.jpg" width="75%">
 </div>
 
-Booth にて頒布しております。Arduino Nano, Nano Every をお持ちの方向けとなります
+Booth にて頒布しております。Arduino Nano, Nano Every をお持ちの方向けとなります  
 <https://booth.pm/ja/items/4782004>
 
 詳細はこちらの GitHub リポジトリをご参照ください  
