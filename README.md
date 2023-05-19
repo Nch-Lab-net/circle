@@ -39,8 +39,6 @@ Booth にて頒布しております。Arduino Nano, Nano Every をお持ちの�
 詳細はこちらの GitHub リポジトリをご参照ください  
 <https://github.com/Nch-MOSFET/CanSatForBeginners>
 
----
-
 ## ちょっと変わった自作キーボード設計、製造、販売
 
 現在構想中 by はるさめ[@HarusameTech](https://twitter.com/HarusameTech)
