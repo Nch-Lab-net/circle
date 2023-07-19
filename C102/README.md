@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="./img/HT-Keys=TKL.jpg" width="75%">  
+  <img src="./img/HT-Keys-TKL.jpg" width="75%">  
 </div>
 
 価格はそれぞれ 4,000 円と 10,0000 円を想定しています。少々お高いですが、個人制作という都合上どうしても高くなってしまうのはご容赦ください
