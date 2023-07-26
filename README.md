@@ -33,7 +33,10 @@ NchLab.net はものづくり系の個人サークルです
   <img src="./img/IMG_20230513_133219157.jpg" width="75%">
 </div>
 
-※ESP32 版は開発完了し、現在製品版を製造中です。RP2040 版については諸事情によりしばらく開発を停止しています
+※ESP32 版は開発完了し、在庫を確保しました。RP2040 版については諸事情によりしばらく開発を停止しています
+
+ESP32_Base の使い方についてはこちらをご参照ください  
+<https://circle.nchlab.net/product/ESP32_Base/How-to-use_ESP32_Base.html>
 
 また、既存のArduino Nano を缶サットとして用いるための基板を作成しました
 
