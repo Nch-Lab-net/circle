@@ -70,7 +70,7 @@ A. ファームウェアは用意していますが、残念ながら QMK には
 コミケに来れない方、タイミング的に購入ができない方のために、Booth でも販売しています。ESP32_Base はコミケ終了後に公開しますが、HT-Keys-TKL は先行して発売していますのでご興味あればぜひどうぞ
 
 - ESP32_Base  
-_Comming soon..._
+<https://nch-mosfet.booth.pm/items/4957073>
 - HT-Keys-TKL  
 <https://harusametech.booth.pm/items/4568322>
 
