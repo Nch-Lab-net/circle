@@ -38,4 +38,10 @@ void loop() {
 }
 ```
 
-尚、ボードは「ESP32 Dev Module」を選択して下さい
+書き込みの際、ボードは「ESP32 Dev Module」を選択して下さい
+
+## ④サンプルコード
+
+以下のリポジトリでサンプルコードを公開しています
+
+<https://github.com/Nch-MOSFET/CanSatForBeginners/tree/main/Arduino>
