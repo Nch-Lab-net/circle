@@ -50,7 +50,7 @@ Booth にて頒布しております。Arduino Nano, Nano Every をお持ちの�
 <https://booth.pm/ja/items/4782004>
 
 詳細はこちらの GitHub リポジトリをご参照ください  
-<https://github.com/Nch-MOSFET/CanSatForBeginners>
+<https://github.com/53175ddd/CanSatForBeginners>
 
 ## ちょっと変わった自作キーボード設計、製造、販売
 
