@@ -44,4 +44,4 @@ void loop() {
 
 以下のリポジトリでサンプルコードを公開しています
 
-<https://github.com/Nch-MOSFET/CanSatForBeginners/tree/main/Arduino>
+<https://github.com/53175ddd/CanSatForBeginners/tree/main/Arduino>
