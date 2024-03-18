@@ -52,6 +52,11 @@ Booth にて頒布しております。Arduino Nano, Nano Every をお持ちの�
 詳細はこちらの GitHub リポジトリをご参照ください  
 <https://github.com/53175ddd/CanSatForBeginners>
 
-## ちょっと変わった自作キーボード設計、製造、販売
+## オリジナルの自作キーボード設計、製造、販売
+
+### 製品
+
+_HT-Keys-TKL_  
+リンク：<https://www.harusame.tech/product/keyboard/HT-Keys/>
 
 現在構想中 by はるさめ[@HarusameTech](https://twitter.com/HarusameTech)
